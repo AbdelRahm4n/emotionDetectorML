@@ -1,3 +1,8 @@
+# abdelrahmanibrahim
+# 31-12-23
+# This is my first project
+
+
 import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
